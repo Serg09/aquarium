@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e266fcd-946e-4e7d-a7e1-8acedb93a674" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aquarium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aquarium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spark-md5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/spark-md5/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/turbolinks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/turbolinks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570243908426</updated>
       <workItem from="1570243912255" duration="1590000" />
+      <workItem from="1570296693413" duration="594000" />
     </task>
     <servers />
   </component>
@@ -160,7 +165,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
