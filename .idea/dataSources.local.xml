@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails aquarium: development" uuid="e769484c-5685-4bd9-8625-df2f8cec8244">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails aquarium: production" uuid="ac9e8f31-86ee-4dfe-8d26-ff55cdf011e5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>aquarium</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails aquarium: test" uuid="7965909e-45c4-4344-bbec-dd1226890601">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
